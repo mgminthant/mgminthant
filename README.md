@@ -10,21 +10,9 @@ Currently focused on **React, Next.js, TypeScript, Node.js, and Swift, Java**.
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
-`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `HTML` `CSS` `ShadcnUi` `Bootstrap` `Sass` `Scss` `Zustand` `Redux` `Zod` `TanStack Query`
-
-**Backend**
-
-`Node.js` `Express.js` 
-
-**Database & Tools**
-
-`MySQL` `PostgreSQL` `Mongodb` `Prisma` `Git` `Docker` `Opencode` `Swagger` `Cursor` `Render` `Koyeb` `Superbase`
-
-**Mobile**
-
-`React Native` `Expo`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,express,mysql,postgres,mongodb,swift" />
+</p>
 
 ---
 
