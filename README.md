@@ -41,7 +41,7 @@ Currently focused on **React, Next.js, TypeScript, Node.js, and Swift, Java**.
 
 * 🌐 [Portfolio](https://minthant.info)
 * 💼 [LinkedIn](https://linkedin.com/in/mrminthant)
-* 📧 Email: `mterror2004@example.com`
+* 📧 Email: `mterror2004@gmail.com`
 
 ---
 
